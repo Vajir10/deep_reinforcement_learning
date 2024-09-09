@@ -1,0 +1,13 @@
+# ignore python bytecode file
+__pychache__/
+*.pyc
+
+# ignore virtual enviroment
+venv/
+
+# ignore idx specific
+.vscode/
+.idea/
+
+# ginore video files
+*.mp4
